@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Camilo",
+      "lastName": "Villar",
+      "middleName": "Duque",
+      "email": "camilo.villar@sansano.usm.cl",
+      "phone": "+56989165559"
+    },
+    {
+      "name": "Cristiano",
+      "lastName": "Ronaldo",
+      "middleName": "Dos Santos",
+      "email": "cristiano@ronaldo.com",
+      "phone": "+56999999999",
+      "id": "Ui4PdcI"
+    },
+    {
+      "name": "Homero",
+      "lastName": "Jey",
+      "middleName": "Simpson",
+      "email": "homero@mail.con",
+      "phone": "+499212345321",
+      "id": "rdNtARa"
+    }
+  ]
+}
